@@ -1,0 +1,8 @@
+        <h2><?php echo $lang['HDR_MIDARCHIVES']; ?></h2>
+
+        <a href="http://www.free-midi.org" target="_blank">free-midi</a>
+        <a href="http://www.midiworld.com/files/" target="_blank">midiworld</a>
+        <a href="https://freemidi.org/" target="_blank">freemidi</a>
+        <a href="www.download-midi.com/" target="_blank">download-midi</a>
+        <a href="http://mids.ru/" target="_blank">mids</a>
+        <a href="www.midi.ru/" target="_blank">midi</a>

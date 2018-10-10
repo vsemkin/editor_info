@@ -1,0 +1,333 @@
+[24-Sep-2016 20:43:28 UTC] PHP Warning:  require(common.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:28 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:28 UTC] PHP Fatal error:  require(): Failed opening required 'common.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:28 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:28 UTC] PHP Warning:  require(common.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:28 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:28 UTC] PHP Fatal error:  require(): Failed opening required 'common.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:28 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:48 UTC] PHP Warning:  require(common.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:48 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:48 UTC] PHP Fatal error:  require(): Failed opening required 'common.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:48 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:48 UTC] PHP Warning:  require(common.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:48 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:48 UTC] PHP Fatal error:  require(): Failed opening required 'common.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:48 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:48 UTC] PHP Warning:  require(common.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:48 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:48 UTC] PHP Fatal error:  require(): Failed opening required 'common.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:48 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:49 UTC] PHP Warning:  require(common.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:49 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:49 UTC] PHP Fatal error:  require(): Failed opening required 'common.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 4
+[24-Sep-2016 20:43:49 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:57 UTC] PHP Warning:  include_once(./app/page/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 11
+[24-Sep-2016 20:43:57 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:57 UTC] PHP Warning:  include_once(): Failed opening './app/page/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 11
+[24-Sep-2016 20:43:57 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:57 UTC] PHP Warning:  include_once(./app/page/page_header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 20
+[24-Sep-2016 20:43:57 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:57 UTC] PHP Warning:  include_once(): Failed opening './app/page/page_header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 20
+[24-Sep-2016 20:43:57 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:57 UTC] PHP Warning:  include_once(./app/page/shared.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 21
+[24-Sep-2016 20:43:57 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:57 UTC] PHP Warning:  include_once(): Failed opening './app/page/shared.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 21
+[24-Sep-2016 20:43:57 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:57 UTC] PHP Warning:  include_once(./app/page/page_footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 29
+[24-Sep-2016 20:43:57 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:57 UTC] PHP Warning:  include_once(): Failed opening './app/page/page_footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 29
+[24-Sep-2016 20:43:57 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:57 UTC] PHP Warning:  include_once(./app/page/scripts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 34
+[24-Sep-2016 20:43:57 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:57 UTC] PHP Warning:  include_once(): Failed opening './app/page/scripts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 34
+[24-Sep-2016 20:43:57 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:58 UTC] PHP Warning:  include_once(./app/page/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 11
+[24-Sep-2016 20:43:58 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:58 UTC] PHP Warning:  include_once(): Failed opening './app/page/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 11
+[24-Sep-2016 20:43:58 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:58 UTC] PHP Warning:  include_once(./app/page/page_header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 20
+[24-Sep-2016 20:43:58 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:58 UTC] PHP Warning:  include_once(): Failed opening './app/page/page_header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 20
+[24-Sep-2016 20:43:58 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:58 UTC] PHP Warning:  include_once(./app/page/shared.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 21
+[24-Sep-2016 20:43:58 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:58 UTC] PHP Warning:  include_once(): Failed opening './app/page/shared.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 21
+[24-Sep-2016 20:43:58 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:58 UTC] PHP Warning:  include_once(./app/page/page_footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 29
+[24-Sep-2016 20:43:58 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:58 UTC] PHP Warning:  include_once(): Failed opening './app/page/page_footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 29
+[24-Sep-2016 20:43:58 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:58 UTC] PHP Warning:  include_once(./app/page/scripts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/app/404.php on line 34
+[24-Sep-2016 20:43:58 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[24-Sep-2016 20:43:58 UTC] PHP Warning:  include_once(): Failed opening './app/page/scripts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/app/404.php on line 34
+[24-Sep-2016 20:43:58 UTC] PHP Stack trace:
+[24-Sep-2016 20:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[02-Oct-2016 12:32:52 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/app/page/shared.php on line 3
+[02-Oct-2016 12:32:52 UTC] PHP Stack trace:
+[02-Oct-2016 12:32:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[02-Oct-2016 13:55:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/app/lang/en.php on line 62
+[02-Oct-2016 13:55:20 UTC] PHP Stack trace:
+[02-Oct-2016 13:55:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[02-Oct-2016 13:55:20 UTC] PHP   2. require() /home/ubuntu/workspace/app/404.php:4
+[02-Oct-2016 13:55:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/app/lang/en.php on line 62
+[02-Oct-2016 13:55:23 UTC] PHP Stack trace:
+[02-Oct-2016 13:55:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[02-Oct-2016 13:55:23 UTC] PHP   2. require() /home/ubuntu/workspace/app/404.php:4
+[02-Oct-2016 13:59:13 UTC] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/ubuntu/workspace/app/lang/ru.php on line 56
+[02-Oct-2016 13:59:13 UTC] PHP Stack trace:
+[02-Oct-2016 13:59:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[02-Oct-2016 13:59:13 UTC] PHP   2. require() /home/ubuntu/workspace/app/404.php:4
+[02-Oct-2016 13:59:14 UTC] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/ubuntu/workspace/app/lang/ru.php on line 56
+[02-Oct-2016 13:59:14 UTC] PHP Stack trace:
+[02-Oct-2016 13:59:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[02-Oct-2016 13:59:14 UTC] PHP   2. require() /home/ubuntu/workspace/app/404.php:4
+[02-Oct-2016 13:59:43 UTC] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/ubuntu/workspace/app/lang/ru.php on line 56
+[02-Oct-2016 13:59:43 UTC] PHP Stack trace:
+[02-Oct-2016 13:59:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[02-Oct-2016 13:59:43 UTC] PHP   2. require() /home/ubuntu/workspace/app/404.php:4
+[02-Oct-2016 14:00:04 UTC] PHP Parse error:  syntax error, unexpected '$lang' (T_VARIABLE) in /home/ubuntu/workspace/app/lang/ru.php on line 56
+[02-Oct-2016 14:00:04 UTC] PHP Stack trace:
+[02-Oct-2016 14:00:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/app/404.php:0
+[02-Oct-2016 14:00:04 UTC] PHP   2. require() /home/ubuntu/workspace/app/404.php:4
+[02-Oct-2016 14:15:49 UTC] PHP Warning:  include_once(./page/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:49 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:49 UTC] PHP Warning:  include_once(): Failed opening './page/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:49 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:49 UTC] PHP Warning:  include_once(./page/page_header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:49 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:49 UTC] PHP Warning:  include_once(): Failed opening './page/page_header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:49 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:49 UTC] PHP Warning:  include_once(./page/shared.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:49 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:49 UTC] PHP Warning:  include_once(): Failed opening './page/shared.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:49 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:49 UTC] PHP Warning:  include_once(./page/page_footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:49 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:49 UTC] PHP Warning:  include_once(): Failed opening './page/page_footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:49 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:49 UTC] PHP Warning:  include_once(./page/scripts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:49 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:49 UTC] PHP Warning:  include_once(): Failed opening './page/scripts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:49 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:52 UTC] PHP Warning:  include_once(./page/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:52 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:52 UTC] PHP Warning:  include_once(): Failed opening './page/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:52 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:52 UTC] PHP Warning:  include_once(./page/page_header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:52 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:52 UTC] PHP Warning:  include_once(): Failed opening './page/page_header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:52 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:52 UTC] PHP Warning:  include_once(./page/shared.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:52 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:52 UTC] PHP Warning:  include_once(): Failed opening './page/shared.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:52 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:52 UTC] PHP Warning:  include_once(./page/page_footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:52 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:52 UTC] PHP Warning:  include_once(): Failed opening './page/page_footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:52 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:52 UTC] PHP Warning:  include_once(./page/scripts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:52 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:52 UTC] PHP Warning:  include_once(): Failed opening './page/scripts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:52 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(./page/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(): Failed opening './page/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(./page/page_header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(): Failed opening './page/page_header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(./page/shared.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(): Failed opening './page/shared.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(./page/page_footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(): Failed opening './page/page_footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(./page/scripts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(): Failed opening './page/scripts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(./page/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(): Failed opening './page/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(./page/page_header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(): Failed opening './page/page_header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(./page/shared.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(): Failed opening './page/shared.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(./page/page_footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(): Failed opening './page/page_footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(./page/scripts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:55 UTC] PHP Warning:  include_once(): Failed opening './page/scripts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:55 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:57 UTC] PHP Warning:  include_once(./page/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:57 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:57 UTC] PHP Warning:  include_once(): Failed opening './page/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:57 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:57 UTC] PHP Warning:  include_once(./page/page_header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:57 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:57 UTC] PHP Warning:  include_once(): Failed opening './page/page_header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:57 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:57 UTC] PHP Warning:  include_once(./page/shared.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:57 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:57 UTC] PHP Warning:  include_once(): Failed opening './page/shared.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:57 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:57 UTC] PHP Warning:  include_once(./page/page_footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:57 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:57 UTC] PHP Warning:  include_once(): Failed opening './page/page_footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:57 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:57 UTC] PHP Warning:  include_once(./page/scripts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:57 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:57 UTC] PHP Warning:  include_once(): Failed opening './page/scripts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:57 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(./page/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(): Failed opening './page/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(./page/page_header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(): Failed opening './page/page_header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(./page/shared.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(): Failed opening './page/shared.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(./page/page_footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(): Failed opening './page/page_footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(./page/scripts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(): Failed opening './page/scripts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(./page/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(): Failed opening './page/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 11
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(./page/page_header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(): Failed opening './page/page_header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 20
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(./page/shared.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(): Failed opening './page/shared.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 21
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(./page/page_footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(): Failed opening './page/page_footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 31
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(./page/scripts.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0
+[02-Oct-2016 14:15:59 UTC] PHP Warning:  include_once(): Failed opening './page/scripts.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/exceptions/404.php on line 36
+[02-Oct-2016 14:15:59 UTC] PHP Stack trace:
+[02-Oct-2016 14:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/exceptions/404.php:0

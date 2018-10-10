@@ -1,0 +1,10 @@
+                <h2>
+                    <?php echo $lang['HDR_CMARCHIVES']; ?>
+                </h2>
+                <a href="http://www.zophar.net" target="_blank">zophar</a>
+                <a href="https://vgmrips.net/packs/">vgmrips</a>
+                <a href="http://www.smspower.org/Music/Index" target="_blank">smspower</a>
+                <a href="http://project2612.org" target="_blank">project2612</a>
+                <a href="http://gilgalad.arc-nova.org/NSF-Archive/" target="_blank">gilgalad</a>
+                <a href="http://slickproductions.org/nsfe.php" target="_blank">slick</a>
+                <a href="http://akumunsf.good-evil.net" target="_blank">akumu</a>

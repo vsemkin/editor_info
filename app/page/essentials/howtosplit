@@ -1,0 +1,2 @@
+<h2><?php echo $lang['HDR_SPLIT']; ?>:</h2>
+<p>a video about split tracks used to be here</p>

@@ -1,0 +1,12 @@
+          <h2><?php echo $lang['SUB_CMDESC']; ?>:</h2>
+          <a href="http://www.foobar2000.org/download" target="_blank">foobar2000</a>
+          <a href="http://www.foobar2000.org/components/view/foo_gep" target="_blank">game emu player</a>
+          <a href="http://audacious-media-player.org/download" target="_blank">audacious</a>
+
+          <h2><?php echo $lang['SUB_TRDESC']; ?>:</h2>
+          <a href="https://openmpt.org/download" target="_blank">openmpt</a>
+          <a href="http://www.milkytracker.org/?download" target="_blank">milkytracker</a>
+          <a href="http://www.foobar2000.org/components/view/foo_dumb" target="_blank">foo_dumb (foobar2000 plug-in)</a>
+
+          <h2><?php echo $lang['SUB_MIDDESC']; ?>:</h2>
+          <a href="https://www.image-line.com/flstudio/" target="_blank">fl studio</a>
